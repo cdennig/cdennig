@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there!
 
 My name is Christian Dennig and I work as a Cloud Solution Architect at Microsoft in Germany.
 
