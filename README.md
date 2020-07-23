@@ -2,7 +2,7 @@
 
 My name is Christian Dennig and I work as a Cloud Solution Architect at Microsoft in Germany.
 
-My focus is Azure and the so called "Cloud Native" space. So all the cool stuff around app dev, container technologies, Kubernetes etc.
+My focus is Azure and the so called "Cloud Native" space. So all the cool stuff around app dev, container technologies, Kubernetes etc. And well, I'm aging faster than I would like to 😉
 
 You can reach me via:
 
