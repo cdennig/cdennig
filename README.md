@@ -4,7 +4,7 @@ My name is Christian Dennig and I work as a Cloud Solution Architect at Microsof
 
 My focus is Azure and the so called "Cloud Native" space. So all the cool stuff around app dev, container technologies, Kubernetes etc. And well, what nobody told me before: I'm aging faster than I would like to 😉
 
-Motto: "I've done everything wrong first, so that you don't have to".
+📣 Motto: "I've done everything wrong first, so that you don't have to".
 
 You can reach me via:
 
