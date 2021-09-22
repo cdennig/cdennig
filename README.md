@@ -15,9 +15,9 @@ You can reach me via:
 📕 **My Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the Transactional Outbox Pattern with Azure Cosmos DB for Guaranteed Delivery of Domain Events](https://partlycloudy.blog/2021/09/22/using-the-transactional-outbox-pattern-with-azure-cosmos-db-for-guaranteed-delivery-of-domain-events/)
 - [Getting started with KrakenD on Kubernetes / AKS](https://partlycloudy.blog/2021/02/17/getting-started-with-krakend-on-kubernetes-aks/)
 - [Azure DevOps Terraform Provider](https://partlycloudy.blog/2020/08/05/azure-devops-terraform-provider/)
 - [Release to Kubernetes like a Pro with Flagger](https://partlycloudy.blog/2020/07/08/release-to-k8s-like-a-pro-with-flagger/)
 - [WSL2: Making Windows 10 the perfect dev machine!](https://partlycloudy.blog/2020/06/05/wsl2-making-windows-10-the-perfect-dev-machine/)
-- [Horizontal Autoscaling in Kubernetes #3 – KEDA](https://partlycloudy.blog/2020/05/29/horizontal-autoscaling-in-kubernetes-3-keda/)
 <!-- BLOG-POST-LIST:END -->
