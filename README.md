@@ -4,7 +4,7 @@ My name is Christian Dennig and I work as a Software Engineer @ Microsoft.
 
 You can reach me via:
 
-- Twitter [@chrisdennig](https://twitter.com/chrisdennig)
+- Mastodon [@chrisdennig@hachyderm.io](https://chrisdennig@hachyderm.io/@chrisdennig)
 - [LinkedIn](https://www.linkedin.com/in/christian-dennig-47427733/)
 - [My Blog](https://partlycloudy.blog)
 
